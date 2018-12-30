@@ -1,0 +1,32 @@
+.Tilt{
+	
+	position: relative;
+    left: 30px;
+}
+
+.List1{
+	
+	position: relative;
+    left: 400px;
+    top:-600px;
+}
+
+.List2{
+
+	font:caption;
+	font-style: italic;
+	font-size: 30px;
+	text-align: left;
+	color: #ADD8E6;
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+
+}
+
+.item{
+	margin-top: 15px;
+    border:1px solid black;
+    list-style-type: none;
+}
