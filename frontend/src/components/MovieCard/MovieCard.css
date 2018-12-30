@@ -1,0 +1,42 @@
+
+
+.relative {
+
+    position: relative;
+    left: 550px;
+    font-family: "Courier New", Courier, monospace;
+    font-style: oblique;
+    font-size: 25px;
+   
+}
+
+.Rev {
+
+    position: relative;
+    left: 70px;
+    bottom: 90px;
+    font-family: "Courier New", Courier, monospace;
+    font-style: oblique;
+    font-size: 25px;
+   
+}
+
+.Rev2 {
+
+    position: relative;
+    left: 0px;
+    bottom: -10px;
+    font-family: "Courier New", Courier, monospace;
+    font-style: oblique;
+    font-size: 25px;
+   
+}
+
+.Like {
+
+    position: relative;
+    left: -222px;
+    bottom: -45px;
+   
+}
+
