@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "imdb": "^1.1.0",
+    "imdb-api": "^4.0.2",
+    "knex": "^0.14.2",
+    "name-to-imdb": "^2.2.0",
+    "node-movie": "^2.0.0",
+    "pg": "^7.4.0",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.7"
+  },
+  "description": ""
+}
